@@ -1,3 +1,6 @@
+# [IA] ChatGPT - Implementação do carregamento
+# do dataset tratado, resolução do caminho e cache.
+
 """Leitura e preparação da base histórica de animes utilizada nos dashboards."""
 
 from pathlib import Path
