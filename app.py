@@ -1,3 +1,8 @@
+# [IA] ChatGPT - Implementação dos dashboards,
+# filtros interativos, métricas e gráficos com Plotly.
+# Código desenvolvido com auxílio de IA a partir
+# dos rascunhos e requisitos definidos pelo aluno.
+
 """Anime Insights: laboratório de análise e painel de escolha de animes."""
 
 from __future__ import annotations
