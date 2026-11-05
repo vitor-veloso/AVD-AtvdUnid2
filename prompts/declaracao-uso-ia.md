@@ -14,7 +14,7 @@ Com base no repositório: https://github.com/vitor-veloso/AVD-AtvdUnid2.git ,
 
 Entregue o código completo de app.py e src/data_loader.py  
 
-que substituiram as versões atuais que estão no repositório que são do template desse trabalho dado pela professora
+que substituirao versões atuais que estão no repositório que são do template desse trabalho dado pela professora
 
 ## O que foi aceito, modificado ou rejeitado e por quê
 
